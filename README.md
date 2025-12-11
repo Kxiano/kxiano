@@ -4,7 +4,7 @@ Hi there, I'm a Frontend Developer passionate about building tech and learning n
 
 Over the past three years, I have specialized in building production-grade frontend applications using React.js and Next.js, implementing component-based architectures, state management solutions, and optimized rendering strategies. <br>My experience extends to WordPress development with PHP, including custom theme development, plugin architecture, and database integration.<br>
 <br>Currently studying Node.js to expand my backend capabilities, with hands-on learning in Express.js, API design, and server-side JavaScript.<br>
-<br>Seeking opportunities to leverage my frontend expertise while gaining practical backend experience.
+<br>Seeking opportunities to expand on my frontend expertise while developing practical backend experience.
 
 
 # 💻 Tech Stack
